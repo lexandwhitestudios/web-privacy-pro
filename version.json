@@ -1,5 +1,5 @@
 {
-  "version": "2.0.7.0",
-  "downloadUrl": "https://download.lexandwhitestudios.com/windows/v2.0.7.0/WebStudio.Package_2.0.7.0_x64.msix",
-  "notes": "Web Privacy Pro v2.0.7.0 update. Includes improved startup performance, safer DNS helper timeout handling, refined browser spacing, and release polish for Microsoft Store submission."
+  "version": "2.0.10.0",
+  "downloadUrl": "https://download.lexandwhitestudios.com/windows/v2.0.10.0/WebStudio.Package_2.0.10.0_x64.msix",
+  "notes": "Web Privacy Pro v2.0.10.0 includes the current activation, licensing, privacy, browsing, capture and sharing improvements."
 }
